@@ -1,3 +1,5 @@
+#WAP to print smallest of three numbers.
+
 a = float(input("Enter first number:\t"))
 b = float(input("Enter second number:\t"))
 c = float(input("Enter third number:\t"))

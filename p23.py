@@ -1,3 +1,5 @@
+#WAP to enter any number and check wether it is EVEN or ODD.
+
 num = int(input("Enter any number:\t"))
 
 if num%2 == 0:

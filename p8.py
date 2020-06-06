@@ -1,3 +1,5 @@
+# WAP to claculate average marks of a student.
+
 m1 = int(input("Enter marks for English:\t"))
 m2 = int(input("Enter marks for Hindi:\t"))
 m3 = int(input("Enter marks for Science:\t"))

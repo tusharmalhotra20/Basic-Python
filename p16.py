@@ -1,3 +1,5 @@
+#WAP to calculate average marks of student and display grades according to it.
+
 m1 = float(input("Enter marks for English:\t"))
 m2 = float(input("Enter marks for Hindi:\t"))
 m3 = float(input("Enter marks for Science:\t"))

@@ -1,3 +1,5 @@
+#WAP to print highest of three numbers using nested else-if.
+
 a = float(input("Enter first number:\t"))
 b = float(input("Enter second number:\t"))
 c = float(input("Entre third number:\t"))

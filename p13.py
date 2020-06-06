@@ -1,3 +1,5 @@
+#WAP to print smallest of two numbers.
+
 a = input("Enter first number:\t")
 b = input("Enter second number:\t")
 

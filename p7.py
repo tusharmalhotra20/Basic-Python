@@ -1,3 +1,5 @@
+# WAP to calculate simple interest.
+
 principle = input("Enter principle amount:\t")
 rate = input("Enter rate:\t")
 time = input("Enter time:\t")

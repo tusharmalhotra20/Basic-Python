@@ -1,3 +1,5 @@
+# WAP to swap two numbers without using empty variable.
+
 a = int(input("Enter first number (a):\t"))
 b = int(input("Enter second number (b):\t"))
 
